@@ -1,0 +1,27 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "蕃茄鐘工作法",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanc1027/Pomodoro.git"
+  },
+  "keywords": [
+    "pomodoro"
+  ],
+  "author": "Nelson Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanc1027/Pomodoro/issues"
+  },
+  "homepage": "https://github.com/hanc1027/Pomodoro#readme",
+  "dependencies": {
+    "play-sound": "^1.1.3",
+    "prompt": "^1.0.0"
+  }
+}
